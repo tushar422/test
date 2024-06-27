@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cybertrons.vkc",
+    "sha256_cert_fingerprints": ["E4:60:7C:41:E8:EC:2D:5B:36:61:3C:09:FF:4A:0D:9A:D3:BC:3B:E1:EF:74:19:79:66:78:96:10:04:A0:3B:AB"]
+  }
+}]
